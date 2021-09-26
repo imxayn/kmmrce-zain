@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@kmmrce/components": ["components/index.js"],
+      "@kmmrce/styles": ["styles/index.js"],
+      "@kmmrce/constants": ["contexts/index.js"],
+      "@kmmrce/helpers": ["helpers/index.js"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
